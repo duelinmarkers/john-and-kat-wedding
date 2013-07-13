@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Music
+title: Music - John & Kat's Wedding
 ---
 
-# Ceremony
+# Music
+
+## Ceremony
 
 * Processional: Vitamin String Quartet - The Pixies' "Here Comes Your Man"
 * Bridal Processional: Vitamin String Quartet - Velvet Underground's "Sunday Morning"
 * Recessional: Mark Mothersbaugh - "Let Me Tell You About My Boat"
 
-# Cocktails & Dinner
+## Cocktails & Dinner
 
 This is the list we gave the DJ. We knew there wouldn't be time for all of it.
 
@@ -48,15 +50,15 @@ This is the list we gave the DJ. We knew there wouldn't be time for all of it.
 * The Clash - "Train In Vain"
 * The Lovin' Spoonful - "Daydream"
 
-# John and Kat's Reception Intro
+## John and Kat's Reception Intro
 
 * Incredible Bongo Band - "Apache"
 
-# First Dance
+## First Dance
 
 * The Band - "Out of the Blue" (live version from The Last Waltz)
 
-# Dancing
+## Dancing
 
 Like the previous one, this is the list we gave the DJ. Not all of it made it in.
 
@@ -97,8 +99,85 @@ Like the previous one, this is the list we gave the DJ. Not all of it made it in
 
 The DJ also threw in a few that weren't on our list. If you remember others, please let us know.
 
-* Daft Punk (featuring Pharrell Williams and Nile Rodgers) - "Get Lucky
+* Daft Punk (featuring Pharrell Williams and Nile Rodgers) - "Get Lucky"
 
-# Last Song
+## Last Song
 
 * Patsy Cline - "Walking After Midnight"
+
+## DJ
+
+Our DJ was [Byrne Rock](http://www.byrnerock.com/). He did a solid job.
+
+## Rejects
+
+There's far more music we wanted to fit in than could possibly be used.
+Through a painful editing process, we eliminated all these songs.
+John was happy to play many of them at our 4th of July party.
+
+* Amon Tobin - "Bridge"
+* Amon Tobin - "Nova"
+* Amon Tobin - "Get Your Snack On"
+* Amy Winehouse - "you know i'm not good"
+* Aphex Twin - "Acrid Avid Jam Shred"
+* Arcade Fire - "Ready To Start"
+* Arcade Fire - "Empty Room"
+* Ben Folds - "Annie Waits"
+* Ben Folds - "Zak And Sara"
+* Ben Harper - "Gold To Me"
+* Billie Holiday - "The Man I Love"
+* Blackalicious - "Make You Feel That Way"
+* Blackalicious - "The Fabulous Ones"
+* Bobby Darin - "Somewhere Beyond the Sea"
+* Bross - "despondencyisthemotherofreinvention"
+* Charlie Parker - "Groovin' High"
+* Chet Atkins and his Gallopin' Guitar - "Country Gentleman"
+* Chuck Berry - "Johnny B. Goode"
+* Cole Porter - "Anything Goes - "Ella Fitzgeral"
+* Creedence Clearwater Revival - "I Heard It Through The Grapevine"
+* Crosby, Stills & Nash (And Young) - "Déjà Vu"
+* Crosby, Stills & Nash (And Young) - "Helplessly Hoping"
+* Devo - "Beautiful World"
+* Diana Ross - "Upside Down"
+* Diana Ross - "You Keep Me Hangin' On"
+* Dinosaur Jr - "Water"
+* The Ronettes - "Be My Baby"
+* Maurice Williams And The Zodiacs - "Stay"
+* Bruce Channel - "Hey Baby"
+* DJ Shadow - "What Does Your Soul Look Like (Part 1)"
+* Elton John - "Rocket Man"
+* Elvis Presley - "Blue Suede Shoes"
+* Fleetwood Mac - "Don't Stop"
+* Jackie Wilson - "I Get The Sweetest Feeling"
+* Jackson 5 - "ABC"
+* James Brown - "Get On The Good Foot"
+* James Brown - "I Got You (I Feel Good)"
+* James Brown - "I'm a Soul Man"
+* Jane's Addiction - "Summertime Rolls"
+* John Lennon - "Stand By Me"
+* Johnny Cash - "I Walk the Line"
+* KC and the Sunshine Band - "sound your funky horn"
+* KC and the Sunshine Band - "(shake shake shake) shake your booty"
+* Le Tigre - "Deceptacon"
+* Le Tigre - "Deceptacon"
+* Led Zeppelin - "Immigrant Song"
+* Led Zeppelin - "Tangerine"
+* Maceo Parker - "Tell Me Something Good"
+* Michael Jackson - "Rock With You"
+* Michael Jackson - "Wanna Be Startin' Somethin'"
+* My Morning Jacket - "Evil Urges"
+* Nat King Cole - "Unforgettable"
+* Nirvana - "About A Girl"
+* Otis Redding - "Respect"
+* Phil Collins - "Two Hearts"
+* Phish - "Horn"
+* Porno For Pyros - "Bali Eyes"
+* Queen - "Under Pressure"
+* R.E.M. - "Can't Get There From Here"
+* Stevie Wonder - "Higher Ground"
+* Tapes 'n Tapes - "Insistor"
+* Tears For Fears - "Everybody Wants To Rule The World"
+* Tears For Fears - "Head Over Heels"
+* The Arcade Fire - "Neighborhood #3 (Power Out)"
+* The Arcade Fire - "Rebellion (Lies)"
+* The Byrds - "Hickory Wind"

@@ -3,6 +3,6 @@ layout: default
 title: John & Kat's Wedding
 ---
 
-* [Words](#) (coming soon)
-* [Music](music.html)
-* [Photos](#) (coming soon)
+### [Words](words.html)
+### [Music](music.html)
+### [Photos](#) (coming soon)
