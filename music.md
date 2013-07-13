@@ -3,15 +3,15 @@ layout: default
 title: Music - John & Kat's Wedding
 ---
 
-# Music
+## Music
 
-## Ceremony
+### Ceremony
 
 * Processional: Vitamin String Quartet - The Pixies' "Here Comes Your Man"
 * Bridal Processional: Vitamin String Quartet - Velvet Underground's "Sunday Morning"
 * Recessional: Mark Mothersbaugh - "Let Me Tell You About My Boat"
 
-## Cocktails & Dinner
+### Cocktails & Dinner
 
 This is the list we gave the DJ. We knew there wouldn't be time for all of it.
 
@@ -50,15 +50,15 @@ This is the list we gave the DJ. We knew there wouldn't be time for all of it.
 * The Clash - "Train In Vain"
 * The Lovin' Spoonful - "Daydream"
 
-## John and Kat's Reception Intro
+### John and Kat's Reception Intro
 
 * Incredible Bongo Band - "Apache"
 
-## First Dance
+### First Dance
 
 * The Band - "Out of the Blue" (live version from The Last Waltz)
 
-## Dancing
+### Dancing
 
 Like the previous one, this is the list we gave the DJ. Not all of it made it in.
 
@@ -100,16 +100,18 @@ Like the previous one, this is the list we gave the DJ. Not all of it made it in
 The DJ also threw in a few that weren't on our list. If you remember others, please let us know.
 
 * Daft Punk (featuring Pharrell Williams and Nile Rodgers) - "Get Lucky"
+* Chuck Berry - "You Never Can Tell"
+* Something John thinks was Dwight Yoakam
 
-## Last Song
+### Last Song
 
 * Patsy Cline - "Walking After Midnight"
 
-## DJ
+### DJ
 
 Our DJ was [Byrne Rock](http://www.byrnerock.com/). He did a solid job.
 
-## Rejects
+### Rejects
 
 There's far more music we wanted to fit in than could possibly be used.
 Through a painful editing process, we eliminated all these songs.

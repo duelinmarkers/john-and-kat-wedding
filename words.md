@@ -3,7 +3,7 @@ layout: default
 title: Words
 ---
 
-# The Ceremony
+## The Ceremony
 
 > We are gathered here today to celebrate one of life's greatest moments,
 > and to witness the vows which will unite John and Katrina in marriage.
@@ -45,7 +45,7 @@ title: Words
 
 > <p class="kat">I do.</p>
 
-> May I have the rings, please? [Best Man gives rings to Officiant]
+> May I have the rings, please? \[Best Man gives rings to Officiant\]
 >
 > John, Please place this ring on Katrina's finger and repeat after me: Katrina, I give you this ring, as a constant reminder of my love for you.
 
