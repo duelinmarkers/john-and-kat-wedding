@@ -107,10 +107,6 @@ The DJ also threw in a few that weren't on our list. If you remember others, ple
 
 * Patsy Cline - "Walking After Midnight"
 
-### DJ
-
-Our DJ was [Byrne Rock](http://www.byrnerock.com/). He did a solid job.
-
 ### Rejects
 
 There's far more music we wanted to fit in than could possibly be used.
