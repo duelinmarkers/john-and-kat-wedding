@@ -10,8 +10,8 @@ body {
 
 p { margin: 1em 0; }
 
-a         { color: #F9CF49; text-decoration: none; }
-a:visited { color: #F9CF49; }
+a         { color: #333939; text-decoration: none; }
+a:visited { color: #333939; }
 
 table {
   font-size: inherit;
