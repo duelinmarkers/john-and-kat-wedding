@@ -60,10 +60,6 @@ h1,h2,h3,h4,h5,h6 {
     text-shadow: rgba(22, 20, 17, 0.2) 1px 1px 2px;
 }
 
-.centered {
-    text-align: center;
-}
-
 footer {
     clear: both;
     margin-top: 2em;
