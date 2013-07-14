@@ -91,9 +91,13 @@ footer {
     color: #333939;
 }
 
-.site .header a.extra {
+.header a.extra {
   color: #aaa6a0;
   margin-left: 1em;
+}
+
+.header a.extra:hover {
+  color: #000;
 }
 
 /* Home */
@@ -134,34 +138,29 @@ footer {
 
 /* Content */
 
-.site .content a {
+.content a {
     font-weight: bold;
 }
 
-.site .content blockquote {
+.content blockquote {
     margin: 0.5em 1em;
     padding: 0 1em;
     background-color: #eeedec;
 }
 
-.site .content .john:before {
+.content .john:before {
     content: "j: ";
     font-weight: bold;
     color: #3333cc;
 }
 
-.site .content .kat:before {
+.content .kat:before {
     content: "k: ";
     font-weight: bold;
     color: #cc3333;
 }
 
-.site .content .john,
-.site .content .kat {
+.content .john,
+.content .kat {
     font-style: italic;
-}
-
-.site .header a.extra:hover {
-  text-shadow: rgba(22, 20, 17, 0.2) 1px 1px 2px;
-  color: #000;
 }
