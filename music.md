@@ -103,6 +103,10 @@ The DJ also threw in a few that weren't on our list. If you remember others, ple
 * Chuck Berry - "You Never Can Tell"
 * Something John thinks was Dwight Yoakam
 
+### Best Man's Speech (Quoted)
+
+* Huey Lewis and The News - "The Power of Love"
+
 ### Last Song
 
 * Patsy Cline - "Walking After Midnight"
