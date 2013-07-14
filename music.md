@@ -157,7 +157,6 @@ John was happy to play many of them at our 4th of July party.
 * KC and the Sunshine Band - "sound your funky horn"
 * KC and the Sunshine Band - "(shake shake shake) shake your booty"
 * Le Tigre - "Deceptacon"
-* Le Tigre - "Deceptacon"
 * Led Zeppelin - "Immigrant Song"
 * Led Zeppelin - "Tangerine"
 * Maceo Parker - "Tell Me Something Good"
