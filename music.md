@@ -60,7 +60,7 @@ This is the list we gave the DJ. We knew there wouldn't be time for all of it.
 
 ### Dancing
 
-Like the previous one, this is the list we gave the DJ. Not all of it made it in.
+Again, we gave the DJ too long a list. (And it had too many slow dances on it.)
 
 * Al Green - "Love and Happiness"
 * Al Green - "Here I Am Baby"
