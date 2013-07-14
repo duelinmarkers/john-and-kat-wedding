@@ -1,20 +1,25 @@
 /* Common */
 
-/* html, body { height: 100%; } */
-
 body {
-  background-color: #333939;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: small;
+    background-color: #333939;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
 }
 
-p { margin: 1em 0; }
-
-a         { color: #333939; text-decoration: none; }
-a:visited { color: #333939; }
-
 table {
-  font-size: inherit;
+    font-size: inherit;
+}
+
+p {
+    margin: 1em 0;
+}
+
+a {
+    color: #333939;
+    text-decoration: none;
+}
+a:visited {
+    color: #333939;
 }
 
 @font-face {
@@ -49,9 +54,9 @@ h1,h2,h3,h4,h5,h6 {
 .site {
     border: 2px solid #F9CF49;
     padding: 2em;
-  background-color: #fffefd;
-  color: #333939;
-  line-height: 200%;
+    background-color: #fffefd;
+    color: #333939;
+    line-height: 200%;
 }
 
 .centered {
