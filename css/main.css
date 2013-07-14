@@ -92,8 +92,14 @@ footer {
 
 /* Home */
 
+.home .site {
+    text-align: center;
+}
+
 .home .header {
     font-size: 300%;
+    display: inline-block;
+    text-align: left;
 }
 
 .home .header h1 {
