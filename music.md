@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Music - John & Kat's Wedding
+title: Music
 ---
 
 ## Music

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: John & Kat's Wedding
+title: Katrina & John's Digital Wedding Album
 ---
 
 * [Words](words.html)

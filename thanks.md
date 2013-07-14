@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Credits
+title: Thanks
 ---
 
 <div style="float:right;">
