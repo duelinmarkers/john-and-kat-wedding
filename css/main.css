@@ -80,7 +80,7 @@ footer {
 }
 
 .header h1 .and {
-    font-family: LeagueScript, fantasy;
+    font-family: LeagueScript, Chunk, Georgia, serif;
     font-size: 50%;
     color: #333939;
 }
