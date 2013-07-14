@@ -138,6 +138,10 @@ footer {
 
 /* Content */
 
+.default .content {
+    margin-right: 10%;
+}
+
 .content a {
     font-weight: bold;
 }
