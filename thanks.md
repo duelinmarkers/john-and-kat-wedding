@@ -11,6 +11,8 @@ title: Thanks
 
 Everything went really well on our big day, and it's largely thanks to:
 
+* Our parents, who gave generously to help us pay for the wedding,
+  and made themselves available to help with the entire event.
 * Our wonderful guests, who came from all over the country to celebrate with us.
 * site, food, and cake:
   [Barr Mansion](http://www.barrmansion.com/),
